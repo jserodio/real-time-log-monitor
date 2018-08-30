@@ -3,8 +3,6 @@
 This is a `Tail -F`-_like_ monitor, for your server logs.
 Whenever your log changes, it sends each new line as a message to each client, that is, a simple browser, in real time via Websockets.
 
-Demo link: <https://log.joseserodio.es/>
-
 ## Real world examples
 
 - Monitoring server attacks.
